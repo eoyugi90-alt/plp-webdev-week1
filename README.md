@@ -5,7 +5,7 @@ This project is my first personal portfolio webpage, developed as part of the Po
 
 ## Live Website
 
-https://YOUR-GITHUB-eoyugi90-alt.github.io/plp-webdev-week1/
+https://eoyugi90-alt.github.io/plp-webdev-week1/
 
 ## About the Project
 
